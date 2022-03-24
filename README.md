@@ -2,7 +2,7 @@
 
 ![alt text](/svg-micro-animations.gif)
 
-Built a nav bar and used SVG animations to show the user when they have interacted with the buttons
+Built a nav bar similar to Twitter and created SVG animations using GreenSock (GSAP) animation libraries to show the user when they have interacted with the buttons
 
 <hr>
 
