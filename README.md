@@ -1,5 +1,7 @@
 # SVG-Micro-Animations
 
+![alt text](/svg-micro-animations.gif)
+
 Built a nav bar and used SVG animations to show the user when they have interacted with the buttons
 
 <hr>
