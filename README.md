@@ -1,6 +1,6 @@
 <hr>
 
-#### You can view the site at [vigneshimself.github.io/SVG-Micro-Animations](https://vigneshimself.github.io/SVG-Micro-Animations/)
+#### Live site: [vigneshimself.github.io/SVG-Micro-Animations](https://vigneshimself.github.io/SVG-Micro-Animations/)
 
 <hr/> 
 
